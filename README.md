@@ -1,4 +1,4 @@
-# 🎓 SnapClass - Intelligent AI Attendance System (Face & Voice)
+ Intelligent AI Attendance System (Face & Voice)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.40%2B-FF4B4B?logo=streamlit)
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 * **Dual-Portal Architecture:**
   * **Teacher Portal:** Create & manage courses, review attendance logs, generate instant QR codes for student onboarding, and conduct live AI attendance sessions.
@@ -41,7 +41,7 @@
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 SNAPCLASS/
@@ -77,7 +77,7 @@ SNAPCLASS/
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Clone the Repository
 ```bash
@@ -116,6 +116,6 @@ Open your browser at `http://localhost:8501`.
 
 ---
 
-## 👤 Author
+## Author
 
 * **Harshit Kumar** - [GitHub Profile](https://github.com/harshitkumar764586)
